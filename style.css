@@ -355,25 +355,13 @@ margin: 0px 15px;
   color: white;
   animation: shake 0.8s;
 }
-@keyframes shake {
-10%{
-  transform: rotate(15deg)
-}
-20px{
-  transform:rotate(-15deg)
-}
-30%{
-  transform:rotate(15deg)
-}
-40%{
-  transform:rotate(-15deg)
-}
+
 #footer
 {
   text-align: center;
  
 }
-}
+
 #footer{
   text-align: center;
 }
@@ -383,5 +371,6 @@ margin: 0px 15px;
  border-radius: 8%;
  color: red;
 }
+
 
 
